@@ -23,9 +23,9 @@ The goal of this project is to show how compliance review work can be supported 
 ## Files Included
 
 - `app.py` - Streamlit dashboard application
-- `CAPSTONE.ipynb` - Jupyter Notebook testing logic and analysis
+- `CAPSTONE.ipynb` - Jupyter Notebook testing logic and analysis (not part of final product)
 - `requirements.txt` - Python packages required to run the dashboard
-- CSV files - Synthetic data files used for the capstone demonstration in streamlit (3)
+- CSV files - Synthetic data files used for the capstone demonstration in streamlit (3) and control library (1)
 - Final Paper 
 
 ## How to Run the Dashboard (powershell terminal)
