@@ -1,0 +1,11 @@
+﻿Evidence_ID,Control_ID,Control_Type,Domain_Group,Control_Question,Evidence_Text
+D001,C1,Access Management,Identity & Access,Is multi-factor authentication required for user login?,MFA is required for access so we can log in for work. We use an app for it.
+D002,C2,Access Management,Identity & Access,Are user access reviews performed on a defined schedule?,"Access is reviewed periodically, usually when changes happen, but we don't have a strict quarterly schedule."
+D003,C3,Access Management,Identity & Access,Are privileged accounts restricted to authorized personnel?,Administrative access is limited to IT staff and requires management approval before elevated access is granted.
+D004,C4,Access Management,Identity & Access,Are password policies enforced with complexity and expiration rules?,"We require passwords, but I'm not sure whether specific complexity or expiration rules are enforced."
+D005,C5,Change Management,Change Control,Are changes tested before being deployed to production?,"Most changes are tested before deployment, although urgent fixes may sometimes be pushed without full testing."
+D006,C6,Change Management,Change Control,Are changes formally approved before deployment?,All production changes are tracked through tickets and require documented approval before deployment.
+D007,C7,Physical Security,Infrastructure Security,Is physical access to systems restricted and monitored?,"Access to the office is badge-controlled, but server rooms are not always restricted to specific personnel."
+D008,C8,Change Management,Change Control,Is there separation between development and approval of changes?,"Developers submit changes, and a separate team member reviews and approves them before deployment."
+D009,C9,Operations,IT Operations,Are backups performed regularly and tested?,"Backups are handled automatically by the system, but I am not sure how often restore testing is performed."
+D010,C10,Operations,IT Operations,Are automated jobs monitored and logs reviewed?,"Jobs run overnight and logs are available if needed, but we don't actively review them on a regular schedule."
